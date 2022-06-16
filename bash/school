@@ -1,0 +1,4 @@
+echo "The school is open!" > school
+
+clear
+echo echo The school is open!
